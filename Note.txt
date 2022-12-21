@@ -1,0 +1,5 @@
+This repository should be used for development purposes only!
+
+Any production bots should be managed in a different repository
+
+Use this dev repository by modeling the bots written in it
